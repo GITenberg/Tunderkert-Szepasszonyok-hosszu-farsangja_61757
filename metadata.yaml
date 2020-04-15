@@ -1,0 +1,29 @@
+_repo: Tunderkert-Szepasszonyok-hosszu-farsangja_61757
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Móricz, Zsigmond
+    alias: Moricz, Zsigmond
+    birthdate: 1879
+    deathdate: 1942
+    gutenberg_agent_id: '41606'
+    url: http://www.gutenberg.org/2009/agents/41606
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Zsigmond_M%C3%B3ricz
+    - https://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
+description: ''
+gutenberg_issued: '2020-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61757'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Transylvania (Romania) -- History -- Fiction'
+- !lcsh 'Bethlen, Gábor, Prince of Transylvania, 1580-1629 -- Fiction'
+- GITenberg
+title: 'Tündérkert: Szépasszonyok hosszú farsangja'
+url: http://www.gutenberg.org/ebooks/61757
